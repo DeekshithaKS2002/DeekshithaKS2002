@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deekshitha K S</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align = "right" alt="coding" width = "400" scrc = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&s
+<img align = "right" alt="coding" width = "400" scrc = https://pngtree.com/freepng/programmers-daily-work_4774975.html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshithaks2002&label=Profile%20views&color=0e75b6&style=flat" alt="deekshithaks2002" /> </p>
 
