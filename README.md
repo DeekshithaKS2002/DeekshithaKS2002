@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deekshitha K S</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align = "right" alt="coding" width = "400" src = deekshitha.jpeg>
+<img align = "right" alt="coding" width = "400" src = "deekshitha.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshithaks2002&label=Profile%20views&color=0e75b6&style=flat" alt="deekshithaks2002" /> </p>
 
